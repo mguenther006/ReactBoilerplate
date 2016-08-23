@@ -52,7 +52,7 @@
 	ReactDOM.render(React.createElement(
 	  'h1',
 	  null,
-	  'Boilerplate app!'
+	  'React Boilerplate app!'
 	), document.getElementById('app'));
 
 /***/ },
